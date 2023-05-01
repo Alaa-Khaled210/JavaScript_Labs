@@ -1,0 +1,44 @@
+*{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: medium;
+}
+.container{
+    border: 2px solid #e57c73;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+#SEND{
+    border: 2px solid #fdb347;
+    text-align: center;
+    margin: auto;
+    width:20%;
+    height:40px ;
+}
+#CLEAR{
+    border: 2px solid #b41406;
+    text-align: center;
+    margin: auto;
+    width:20%;
+    height:40px ; 
+}
+select{
+    margin: 10px ;
+}
+table{
+    border: 2px solid #fdb347;
+   text-align: center;
+   margin: auto;
+   width: 50%;
+   font-weight: bold;
+   font-size: 20px;
+}
+table tr,th,td {
+border: 2px solid #fdb347;
+margin:0 auto;
+
+}
+th{
+    color: #0d3895;
+}
